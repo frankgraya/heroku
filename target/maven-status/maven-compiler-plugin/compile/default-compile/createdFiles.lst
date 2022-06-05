@@ -1,0 +1,3 @@
+com\example\demo\Model\Estudiante.class
+com\example\demo\Controllers\HomeController.class
+com\example\demo\CrudSecurityApplication.class
